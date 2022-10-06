@@ -6,7 +6,9 @@
         <entry key="..\:/Users/evamw/AndroidStudioProjects/GloboTour/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Users/evamw/AndroidStudioProjects/GloboTour/app/src/main/res/layout/fragment_city_list.xml" value="0.11820652173913043" />
         <entry key="..\:/Users/evamw/AndroidStudioProjects/GloboTour/app/src/main/res/layout/fragment_favorite.xml" value="0.11820652173913043" />
-        <entry key="..\:/Users/evamw/AndroidStudioProjects/GloboTour/app/src/main/res/layout/list_item_city.xml" value="0.11820652173913043" />
+        <entry key="..\:/Users/evamw/AndroidStudioProjects/GloboTour/app/src/main/res/layout/grid_item_city.xml" value="0.10739614994934144" />
+        <entry key="..\:/Users/evamw/AndroidStudioProjects/GloboTour/app/src/main/res/layout/list_item_city.xml" value="0.1" />
+        <entry key="..\:/Users/evamw/AndroidStudioProjects/GloboTour/app/src/main/res/layout/list_item_favorite.xml" value="0.10739614994934144" />
         <entry key="..\:/Users/evamw/AndroidStudioProjects/GloboTour/app/src/main/res/layout/nav_header.xml" value="0.11820652173913043" />
         <entry key="..\:/Users/evamw/AndroidStudioProjects/GloboTour/app/src/main/res/menu/activity_main_drawer_items.xml" value="0.22083333333333333" />
       </map>
